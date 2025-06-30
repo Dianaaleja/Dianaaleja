@@ -64,18 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dianaaleja&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dianaaleja&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ Let's Collaborate!
 
 I'm open to collaborate on data science, analytics, or data engineering projects — especially where we can turn messy data into clear, actionable insights.
