@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A68D1&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Diana+Alejandra+%F0%9F%91%8B;Data+Analyst+%7C+Data+Science+Student;Apasionada+por+la+tecnolog%C3%ADa+y+los+datos" alt="Typing SVG" />
-</p>
-
 
 <h1 align="center">Hi there, I'm Diana 👋</h1>
 
