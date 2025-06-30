@@ -35,3 +35,56 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker)
 
+---
+
+### 🌱 Currently Learning
+
+- ⚙️ Airflow for orchestration  
+- 📊 dbt & Snowflake for cloud data engineering  
+- 🧪 LangChain and OpenAI for AI agents and chatbots  
+- ☁️ AWS fundamentals  
+
+---
+
+### 📌 Featured Projects
+
+- [**LLMs**](https://github.com/Dianaaleja/LLMs): Conversational agents, prompts, and NLP tools  
+- [**LSTM Forecast**](https://github.com/carlosgutierrezch/lstm-forecast): Forecasting SGD/USD with deep learning  
+- [**Client Segmentation**](https://github.com/carlosgutierrezch/client-segmentation): K-means clustering and PCA for customer behavior  
+- [**dbt + Snowflake Pipelines**](#): (in progress) Modular and scalable ELT pipelines  
+
+---
+
+### 🏆 Certifications
+
+- ✅ **AWS Certified Cloud Practitioner** (Foundational)  
+- ✅ Cisco Data Analytics Essentials  
+- ✅ Networking Academy Learn‑A‑Thon 2023  
+- 📜 Masterschool: Data Analyst Path  
+- 🎓 Continuous learning: webinars, hands-on projects, GitHub collaboration  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dianaaleja&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dianaaleja&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Let's Collaborate!
+
+I'm open to collaborate on data science, analytics, or data engineering projects — especially where we can turn messy data into clear, actionable insights.
+
+💬 Reach me on [LinkedIn](https://www.linkedin.com/in/dianaterrazalopez/) or drop me an email at: **dianalterlop@gmail.com**
+
+---
+
+<p align="center">
+  Made with ❤️ by Diana Alejandra López
+</p>
