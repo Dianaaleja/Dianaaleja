@@ -4,7 +4,6 @@
   💻 Data Analyst transitioning into Data Science & Engineering<br/>
   📍 Based in Germany | 🇨🇴 Originally from Bogotá, Colombia
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dianaterrazalopez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/Dianaaleja"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
@@ -33,7 +32,7 @@
 ![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
