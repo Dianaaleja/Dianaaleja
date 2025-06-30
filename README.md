@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Hi there! I'm Diana 👋
 
 <div align="center">
@@ -159,7 +159,7 @@ I'm open to collaborate on data science, analytics, or data engineering projects
 <p align="center">
   Made with ❤️ by Diana Alejandra Terraza López
 </p>
-EOF
+
 
 
 
