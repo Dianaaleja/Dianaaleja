@@ -16,7 +16,7 @@
 
 - 🎓 Industrial Engineer with 6+ years of experience in finance and customer analytics  
 - 🌱 Currently learning Data Engineering, NLP, and deploying AI pipelines  
-- 🧠 Passionate about BI, forecasting, customer behavior, and scalable data products  
+- 🧠 Passionate about Data, BI, forecasting, customer behavior, and scalable data products  
 - 🚀 Career transition powered by Masterschool & Cisco certifications  
 - 🌐 Languages: Spanish 🇪🇸 | English 🇬🇧 | German 🇩🇪 | French 🇫🇷
 
@@ -47,26 +47,27 @@
 
 ### 📌 Featured Projects
 
-- [**LLMs**](https://github.com/Dianaaleja/LLMs): Conversational agents, prompts, and NLP tools  
-- [**LSTM Forecast**](https://github.com/carlosgutierrezch/lstm-forecast): Forecasting SGD/USD with deep learning  
-- [**Client Segmentation**](https://github.com/carlosgutierrezch/client-segmentation): K-means clustering and PCA for customer behavior  
-- [**dbt + Snowflake Pipelines**](#): (in progress) Modular and scalable ELT pipelines  
+- [**NLP**](https://github.com/Dianaaleja/NLP): Conversational agents, vectorization, prompts, and NLP tools  
+- [**XGBoost Forecast**](https://github.com/Dianaaleja/corporacion_favorita): Forecasting e-commerce products with deep learning ARIMA, SARIMA, LSTM models.  
+- [**Client Segmentation**](https://github.com/Dianaaleja/travel_tide_customer_segment): K-means clustering and PCA for customer behavior  
+- [**AWS Grocery**](https://github.com/Dianaaleja/AWS_grocery):Fully automated AWS infrastructure deployment using Terraform and GitHub Actions  
 
 ---
 
 ### 🏆 Certifications
 
-- ✅ **AWS Certified Cloud Practitioner** (Foundational)  
-- ✅ Cisco Data Analytics Essentials  
-- ✅ Networking Academy Learn‑A‑Thon 2023  
-- 📜 Masterschool: Data Analyst Path  
-- 🎓 Continuous learning: webinars, hands-on projects, GitHub collaboration  
+
+- ☁️ **Certified Cloud Practitioner** (AWS - Foundational)  
+- 📊 **Cisco Data Analytics Essentials**  
+- 🧠 **Networking Academy Learn‑A‑Thon 2023**  
+- 🏫 **Masterschool: Data Analyst - Data Scientist Path**  
+- 🎓 Continuous learning: webinars, hands-on projects, GitHub collaboration   
 
 ---
 
 ### ✨ Let's Collaborate!
 
-I'm open to collaborate on data science, analytics, or data engineering projects — especially where we can turn messy data into clear, actionable insights.
+I'm open to collaborate on data science, analytics, or data engineering projects — especially where we can turn messy data into actionable insights. I enjoy learning and am always eager to explore new technologies and grow professionally. 
 
 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/dianaterrazalopez/) or drop me an email at: **dianalterlop@gmail.com**
 
