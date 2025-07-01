@@ -6,7 +6,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Data Analyst** and **Data Scientist** with a background in **Industrial Engineering** and several years of experience in the **banking and financial sector**. I love transforming raw data into actionable insights and building intelligent solutions that solve real-world problems. Whether it's cleaning messy datasets, building machine learning models, or designing dashboards, I enjoy telling meaningful stories with data.
+I'm a passionate **Data Analyst** and **Data Scientist** originally from **Bogotá, Colombia**, currently based in **Germany**. I have a background in **Industrial Engineering** and several years of experience in the **banking and financial sector**.
+
+I love transforming raw data into actionable insights and building intelligent solutions that solve real-world problems. Whether it's cleaning messy datasets, building machine learning models, or designing dashboards, I enjoy telling meaningful stories with data that drive business impact.
 
 ---
 
